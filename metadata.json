@@ -1,0 +1,6 @@
+{
+  "name": "The Research Bureau",
+  "description": "AI research and idea-analysis agent for science-fiction writers, delivering structured epistemological dossiers distinguishing fact, plausibility, and speculative fiction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
